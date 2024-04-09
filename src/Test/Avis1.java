@@ -11,7 +11,6 @@ public class Avis1 {
 		 System.out.println("Avishek");
 	}
 	 System.out.println("Not present");
-
 	 System.out.println("new11");
 	 System.out.println("new 12");
 
