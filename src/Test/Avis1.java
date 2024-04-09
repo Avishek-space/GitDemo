@@ -11,5 +11,7 @@ public class Avis1 {
 		 System.out.println("Avishek");
 	}
 	 System.out.println("Not present");
+	 System.out.println("Not present1");
+	 System.out.println("Not present2");
  }
 }
