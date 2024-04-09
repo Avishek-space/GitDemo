@@ -1,0 +1,10 @@
+INDEX VERSION 1.132+C:\Users\avish\Git-X\.metadata\.plugins\org.eclipse.jdt.core
+231330229.index
+3519323872.index
+3301732597.index
+1865797976.index
+2630651773.index
+3159534347.index
+3357065734.index
+3297216171.index
+3819679665.index
